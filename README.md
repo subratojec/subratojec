@@ -11,8 +11,6 @@
 
 ---
 
----
-
 ## 🚀 About Me
 
 I am a **Cloud & DevOps Engineer** and final-year Information Technology student specializing in building automated, scalable, and highly observable infrastructure. My expertise spans architecting robust CI/CD pipelines, provisioning Infrastructure as Code (IaC), managing containerized environments, and building data-intensive engineering pipelines.
