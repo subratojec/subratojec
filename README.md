@@ -4,7 +4,12 @@
   <a href="https://linkedin.com/in/subrato-singh-13ab42211/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
+  <a href="https://subratosingh.dev">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"/>
+  </a>
 </div>
+
+---
 
 ---
 
@@ -55,10 +60,11 @@ I am a **Cloud & DevOps Engineer** and final-year Information Technology student
 * **Shortlisted Top 20** | Webathon Hackathon 2024 (Out of 200 teams).
 
 ---
----
 
 ## 📊 GitHub Ecosystem
 
-📌 **GitHub Stats** ![Subrato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subratojec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+📌 **GitHub Stats** 
+![Subrato's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=subratojec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-📌 **Top Languages** ![Subrato's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subratojec&layout=compact&langs_count=8&theme=dracula)
+📌 **Top Languages** 
+![Subrato's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=subratojec&layout=compact&langs_count=8&theme=dracula)
