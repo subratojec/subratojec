@@ -55,11 +55,10 @@ I am a **Cloud & DevOps Engineer** and final-year Information Technology student
 * **Shortlisted Top 20** | Webathon Hackathon 2024 (Out of 200 teams).
 
 ---
+---
 
 ## 📊 GitHub Ecosystem
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subratojec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Subrato's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratojec&layout=compact&langs_count=8&theme=dracula" alt="Subrato's Top Languages"/>
-</p>
+📌 **GitHub Stats** ![Subrato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subratojec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+📌 **Top Languages** ![Subrato's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subratojec&layout=compact&langs_count=8&theme=dracula)
