@@ -1,68 +1,92 @@
-# Subrato Singh
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f2027,100:2c5364&text=Subrato%20Singh&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Associate%20DevOps%20Engineer%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Observability&descColor=cbd5e1&descSize=15&descAlignY=60" alt="Subrato Singh" />
 
-<div align="left">
-  <a href="https://linkedin.com/in/subrato-singh-13ab42211/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
-  <a href="https://subrato.vercel.app">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"/>
-  </a>
-</div>
+<p align="center">
+  <a href="https://subrato.vercel.app"><img src="https://img.shields.io/badge/Website-2c5364?style=flat-square" alt="Website" /></a>
+  <a href="https://linkedin.com/in/subrato-singh-13ab42211/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:subratosingh@zohomail.in"><img src="https://img.shields.io/badge/Email-6b7280?style=flat-square" alt="Email" /></a>
+</p>
 
----
+## 👋 About
 
-## 🚀 About Me
+<table>
+<tr>
+<td valign="middle">
 
-I am a **Cloud & DevOps Engineer** and recent graduate in Information Technology specializing in building automated, scalable, and highly observable infrastructure. My expertise spans architecting robust CI/CD pipelines, provisioning Infrastructure as Code (IaC), managing containerized environments, and building data-intensive engineering pipelines.
+I'm an Associate DevOps Engineer working with Linux, Kubernetes, CI/CD and observability. I build internal tooling mostly in **Go**, and I like turning day-to-day operations problems into small, reliable tools.
 
-- 🏗️ **Infrastructure as Code:** Advanced automation using **Terraform** to provision secure, modular multi-tier environments (VPCs, IAM, VMs).
-- ☸️ **Containerization & Orchestration:** Deploying and scaling production-grade microservices on **Kubernetes** and **Docker**.
-- 📊 **Observability & SRE:** Instrumenting comprehensive metrics pipeline frameworks (**Prometheus**, **Grafana**) with custom alerting and Linux cgroups resource isolation.
-- ⚡ **DataOps & Automation:** Developing end-to-end event-driven data streaming pipelines using **Apache Kafka** and cloud data lakes.
+My personal website, [subrato.vercel.app](https://subrato.vercel.app), has my blog and more about me.
 
----
+**Currently exploring:** Kubernetes tooling · observability · AI-assisted incident response with local LLMs
 
-## 🛠️ Tech Stack
+</td>
+<td align="center" width="260">
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Cloud Platforms** | AWS (EC2, S3, VPC, IAM, RDS), Google Cloud Platform (GCP), Cloud Run |
-| **Containerization** | Docker, Kubernetes, Helm |
-| **Infrastructure as Code / CI/CD** | Terraform, AWS CloudFormation, GitHub Actions, Jenkins |
-| **Observability** | Prometheus, Grafana, Alert Rules, Log Analysis |
-| **Languages & Frameworks** | Go, Python, Bash, SQL, FastAPI |
-| **Systems & Core CS** | Linux Internals, Linux Hardening, cgroups, Networking, Data Structures & Algorithms |
+<img src="output/bonsai-growth.gif" width="240" alt="My git-bonsai, grown from my GitHub history" />
+<br />
+<sub>A tree grown from my commit history</sub>
 
----
+</td>
+</tr>
+</table>
 
-## 📁 Featured Projects
+## 💼 Experience
 
-### 📈 Real-Time Stock Market Data Pipeline
-* **Tech Stack:** Python, Apache Kafka, AWS S3, AWS Glue, Amazon Athena, SQL
-* **Overview:** Built an end-to-end streaming data architecture ingesting live market feeds via Kafka consumers/producers. Configured automated schema discovery with AWS Glue and optimized downstream analytics via Athena.
+**Associate DevOps Engineer** · Genesis Technologies India · *June 2026 – Present*
 
-### 🔍 Service Health & Observability Platform
-* **Tech Stack:** Python, FastAPI, Docker, Prometheus, Grafana, Linux cgroups
-* **Overview:** Created a full-stack telemetry framework collecting service health and HTTP metrics. Implemented proactive early-warning threshold alerts and forced system isolation via custom `cgroups` to observe OOMKill behavior under stress tests.
+- Look after 30–40 Linux workstations, automating setup and routine maintenance with Jenkins and Ansible.
+- Support AWS, Kubernetes, Terraform and CI/CD workflows, including production infrastructure and deployment pipelines.
+- Set up observability and logging across environments with Prometheus, Grafana, Loki and exporters.
+- Build Grafana dashboards and alerts that notify through Microsoft Teams, so problems are noticed early.
 
-### ☸️ Scalable WordPress Architecture on AWS
-* **Tech Stack:** AWS, Kubernetes, Terraform, Prometheus, Grafana
-* **Overview:** Provisioned a highly available web application infrastructure using Terraform, enforcing zero-trust credential safety with Kubernetes Secrets and configuring custom ReplicaSets for fault tolerance.
+## 🛠️ Tech I've worked with
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,ansible,githubactions,jenkins&perline=8" alt="Cloud and DevOps tools" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,kafka,linux,bash,py,go,fastapi&perline=8" alt="Monitoring, data and languages" />
+</p>
 
-## 🏆 Achievements & Leadership
+<sub><b>Primary language:</b> Go · also Python, Bash, SQL. Loki, CloudFormation, Helm, React, AWS Glue, Athena, cgroups, networking.</sub>
 
-* **Top-15 Finalist** | Google Cloud Agentic AI Hackathon 2025 (Out of 700+ teams)
-* **Cloud Computing Lead** | Google Developer Student Clubs - JEC (2022-2024) — Mentored 20+ peers on Kubernetes and cloud-native standards.
-* **Shortlisted Top 20** | Webathon Hackathon 2024 (Out of 200 teams).
+## 📁 Projects
 
----
+| Project | What it is | Stack |
+|:--|:--|:--|
+| 🔀 **AlertFlow** | Reads an Alertmanager config and draws the routing tree as an interactive diagram. You can type in a mock alert to see which route and receiver it would hit. It reuses Alertmanager's own matching logic and also works as a CLI for checking routing changes in CI. | Go, React, ReactFlow, Docker, Cobra |
+| 🤖 **K8s ChatOps Bot** | A Slack bot for checking on a Kubernetes cluster from chat (`!pods`, `!logs`). Its `!diagnose` command sends failing pod events and logs to a local LLM for a root-cause summary, and it can watch for Warning events. Uses Slack Socket Mode, so no public webhooks. | Go, client-go, Slack API, Ollama |
+| 🔍 **Service Health & Observability Platform** | Grafana dashboards for CPU, memory and HTTP metrics via Prometheus, with anomaly detection that flags problems before threshold alerts, and cgroups to simulate resource limits. | FastAPI, Docker, Prometheus, Grafana |
+| 📈 **Real-Time Stock Data Pipeline** | A Kafka pipeline handling about 50K market events a day, with ETL into S3, schema management in Glue and queries in Athena. | Python, Kafka, S3, Glue, Athena |
 
-## 📊 GitHub Ecosystem
+## ✍️ Writing
 
-📌 **GitHub Stats** 
-![Subrato's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=subratojec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+Recent posts on [my blog](https://subrato.vercel.app/blogs.html):
 
-📌 **Top Languages** 
-![Subrato's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=subratojec&layout=compact&langs_count=8&theme=dracula)
+- Build a Simple AI Helper That Watches Your Kubernetes Cluster
+- Building a Kubernetes ChatOps Bot from Scratch (Go, Slack, & Strict RBAC)
+- Building a Kubernetes Homelab from Scratch on Fedora
+
+## 🏆 Highlights
+
+- **Top 15 finalist**, Google Cloud Agentic AI Hackathon 2025 (700+ teams)
+- **Shortlisted top 20**, Webathon Hackathon 2024 (200 teams)
+- **Cloud Computing Lead**, Google Developer Student Clubs – JEC (2022–2024): helped 20+ peers get started with Kubernetes and cloud basics
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=subratojec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subratojec/subratojec/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subratojec/subratojec/output/github-snake.svg" />
+    <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/subratojec/subratojec/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub><a href="https://subrato.vercel.app">subrato.vercel.app</a> · <a href="mailto:subratosingh@zohomail.in">subratosingh@zohomail.in</a></sub>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f2027,100:2c5364&section=footer" alt="" />
