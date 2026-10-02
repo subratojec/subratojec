@@ -37,8 +37,6 @@ My personal website, [subrato.vercel.app](https://subrato.vercel.app), has my bl
   <img src="https://skillicons.dev/icons?i=prometheus,grafana,kafka,linux,bash,py,go,fastapi&perline=8" alt="Monitoring, data and languages" />
 </p>
 
-<sub><b>Primary language:</b> Go · also Python, Bash, SQL. Loki, CloudFormation, Helm, React, AWS Glue, Athena, cgroups, networking.</sub>
-
 ## 📁 Projects
 
 | Project | What it is | Stack |
@@ -65,7 +63,11 @@ Recent posts on [my blog](https://subrato.vercel.app/blogs.html):
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=subratojec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img src="https://img.shields.io/badge/Primary_language-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Primary language: Go" />
+</p>
+
+<p align="center">
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=subratojec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true" />
 </p>
 
 <p align="center">
