@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f2027,100:2c5364&text=Subrato%20Singh&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Associate%20DevOps%20Engineer%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Observability&descColor=cbd5e1&descSize=15&descAlignY=60" alt="Subrato Singh" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f2027,100:2c5364&text=Subrato%20Singh&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=DevOps%20Engineer%20%E2%80%A2%20Kubernetes%20%E2%80%A2%20Observability&descColor=cbd5e1&descSize=15&descAlignY=60" alt="Subrato Singh" />
 
 <p align="center">
   <a href="https://subrato.vercel.app"><img src="https://img.shields.io/badge/Website-2c5364?style=flat-square" alt="Website" /></a>
@@ -12,7 +12,7 @@
 <tr>
 <td valign="middle">
 
-I'm an Associate DevOps Engineer working with Linux, Kubernetes, CI/CD and observability. I build internal tooling mostly in **Go**, and I like turning day-to-day operations problems into small, reliable tools.
+I'm a DevOps engineer interested in Linux, Kubernetes, CI/CD and observability. I build small tools, mostly in **Go**, that make day-to-day operations easier, and I'm happy to contribute to open source projects in this space.
 
 My personal website, [subrato.vercel.app](https://subrato.vercel.app), has my blog and more about me.
 
@@ -28,15 +28,6 @@ My personal website, [subrato.vercel.app](https://subrato.vercel.app), has my bl
 </td>
 </tr>
 </table>
-
-## 💼 Experience
-
-**Associate DevOps Engineer** · Genesis Technologies India · *June 2026 – Present*
-
-- Look after 30–40 Linux workstations, automating setup and routine maintenance with Jenkins and Ansible.
-- Support AWS, Kubernetes, Terraform and CI/CD workflows, including production infrastructure and deployment pipelines.
-- Set up observability and logging across environments with Prometheus, Grafana, Loki and exporters.
-- Build Grafana dashboards and alerts that notify through Microsoft Teams, so problems are noticed early.
 
 ## 🛠️ Tech I've worked with
 
