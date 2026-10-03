@@ -79,7 +79,7 @@ Recent posts on [my blog](https://subrato.vercel.app/blogs.html):
 </p>
 
 <p align="center">
-  <sub><a href="https://subrato.vercel.app">subrato.vercel.app</a> · <a href="mailto:subratosingh@zohomail.in">subratosingh@zohomail.in</a></sub>
+  <sub><a href="https://subrato.vercel.app">subrato.vercel.app</a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f2027,100:2c5364&section=footer" alt="" />
